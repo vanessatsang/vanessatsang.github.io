@@ -69,7 +69,7 @@ if(
 				else :
 					get_template_part( 'template-parts/content', 'none' );
 				endif; ?>
-			</main><!-- #main -->
+			</main>
 		</div><!-- #primary -->
 		<?php
 		get_sidebar( 'left' );
